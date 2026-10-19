@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kevin Verdiguel
-### Software Engineer · Backend & Full-Stack Development
+### Software Engineer · Full-Stack & Mobile Development
 
 **Building reliable backends. Connecting systems. Bringing ideas to life.**
 ### Find me online
